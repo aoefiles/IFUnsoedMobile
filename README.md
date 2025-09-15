@@ -10,4 +10,4 @@
 Berikut adalah hasil tugas pertemuan 2:
 
 - Screenshot aplikasi (halaman utama)  
-  ![Screenshot Pertemuan 2](Result.png)
+  ![Screenshot Pertemuan 2](View.png)
