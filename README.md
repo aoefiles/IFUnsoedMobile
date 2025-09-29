@@ -11,3 +11,8 @@ Berikut adalah hasil tugas pertemuan 2:
 
 - Screenshot aplikasi (halaman utama)  
   ![Screenshot Pertemuan 2](View.png)
+
+## Pertemuan 3
+Berikut adalah demo aplikasi yang memperlihatkan perpindahan halaman:
+
+![Demo Aplikasi](ProfilLulusan.gif)
