@@ -22,3 +22,10 @@ Berikut adalah demo aplikasi yang memperlihatkan perpindahan halaman:
 
 Atau klik link di bawah:
 [🎥 Lihat demo ProfilLulusan.webm](https://github.com/aoefiles/Tugas2-Pertemuan3/raw/main/ProfilLulusan.webm)
+
+## Tugas 3 Pertemuan 4
+
+Demo aplikasi memperlihatkan tampilan data yang didapat:
+
+![Demo Aplikasi](DaftarBuku.gif)
+
