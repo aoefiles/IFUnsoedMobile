@@ -12,8 +12,7 @@ Berikut adalah hasil tugas pertemuan 2:
 - Screenshot aplikasi (halaman utama)  
   ![Screenshot Pertemuan 2](View.png)
 
-## Pertemuan 3
-## Pertemuan 3
+## Tugas 2 Pertemuan 3
 Berikut adalah demo aplikasi yang memperlihatkan perpindahan halaman:
 
 <video src="https://github.com/aoefiles/Tugas2-Pertemuan3/raw/main/ProfilLulusan.webm"
