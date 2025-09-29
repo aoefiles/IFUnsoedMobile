@@ -15,7 +15,7 @@ Berikut adalah hasil tugas pertemuan 2:
 ## Pertemuan 3
 Berikut adalah demo aplikasi yang memperlihatkan perpindahan halaman:
 
-<video src="https://github.com/aoefiles/Tugas2-Pertemuan3/ProfilLulusan.webm" 
+<video src="https://github.com/aoefiles/Tugas2-Pertemuan3/main/ProfilLulusan.webm" 
        controls 
        autoplay 
        loop 
