@@ -22,4 +22,4 @@ Berikut adalah demo aplikasi yang memperlihatkan perpindahan halaman:
 </video>
 
 Atau klik link di bawah:
-[🎥 Lihat demo ProfilLulusan.webm](https://github.com/aoefiles/Tugas2-Pertemuan3/main/ProfilLulusan.webm)
+[🎥 Lihat demo ProfilLulusan.webm](https://github.com/aoefiles/Tugas2-Pertemuan3/raw/main/ProfilLulusan.webm)
