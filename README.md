@@ -25,13 +25,13 @@ Atau klik link di bawah:
 
 ## Tugas 3 Pertemuan 4
 
-Demo aplikasi memperlihatkan tampilan data yang didapat:
+Berikut adalah hasil demo aplikasi memperlihatkan tampilan data buku yang didapat:
 
 ![Demo Aplikasi](DaftarBuku.gif)
 
 ## Tugas 4 Pertemuan 5
 
-Berikut adalah hasil demo aplikasi pada pertemuan 5 yang menampilkan flow dari halaman pertama menuju halaman selanjutnya serta modal info dari buku yang ada:
+Berikut adalah hasil demo aplikasi yang menampilkan flow dari halaman pertama serta modal info dari buku yang ada:
 
 ![Demo Aplikasi Pertemuan 5](demo_pertemuan5.gif)
 
