@@ -33,6 +33,6 @@ Demo aplikasi memperlihatkan tampilan data yang didapat:
 
 Berikut adalah hasil demo aplikasi pada pertemuan 5 yang menampilkan flow dari halaman pertama menuju halaman selanjutnya serta modal info dari buku yang ada:
 
-![Demo Aplikasi Pertemuan 5](assets/demo/demo_pertemuan5.gif)
+![Demo Aplikasi Pertemuan 5](demo_pertemuan5.gif)
 
 
